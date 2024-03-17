@@ -24,4 +24,4 @@ node+express 搭建api模板
 
 ## 功能分析
 
-![index](D:\NodeProjects\node-express-api-template\index.png)
+![index](https://github.com/huangpw/node-express-api-template/blob/master/index.png)
